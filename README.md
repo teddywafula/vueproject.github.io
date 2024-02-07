@@ -1,4 +1,4 @@
-# new-front-end
+# Sample ecommerce project for footwear
 
 ## Project setup
 ```
